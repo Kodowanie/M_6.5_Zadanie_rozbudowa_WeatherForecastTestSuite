@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testing.weather.stub.WeatherForecastTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-08-31T14:46:09" hostname="DESKTOP-DKN2RU7" time="0.743">
+  <properties/>
+  <testcase name="testCalculateForecastMedian()" classname="testing.weather.stub.WeatherForecastTestSuite" time="0.743"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
